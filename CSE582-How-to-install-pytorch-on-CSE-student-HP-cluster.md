@@ -1,6 +1,5 @@
 # How to install PyTorch on CSE student HP cluster
-Yu-Wei Su - CSE 582 - Spring 2024 
-2024/05/07
+Yu-Wei Su - CSE 582 - Spring 2024
 
 ## Intro
 Students who have never used a lab machine (like me) may take some time to figure out what can be done and what cannot. I'll share notes on how to setup the lab machine. There are multiple ways to do it.
