@@ -71,6 +71,10 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/
 bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 rm -rf ~/miniconda3/miniconda.sh
 ```
+Export the conda the the environment.
+```bash
+export PATH=~/miniconda3/bin:$PATH
+```
 The command `conda` should be working now.
 
 Then init your shell for conda.
